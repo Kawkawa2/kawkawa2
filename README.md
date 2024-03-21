@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Kawkawa! 👋</h1>
 
-<h3 align="center">I'm a driven young woman who enjoys coding and developing useful applications. I am now a junior full-stack developer with experience in a range of languages and frameworks, and I am particularly interested in backend and frontend technologies.</h3>
+<h3 align="center">I'm a driven young Girl who enjoys coding and developing useful applications. I am now a junior full-stack developer with experience in a range of languages and frameworks, and I am particularly interested in backend and frontend technologies.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kawkawa2](https://github.com/Kawkawa2)
 
