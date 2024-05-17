@@ -1,6 +1,10 @@
 <h1 align="center">Hello, I'm Kawkawa! 👋</h1>
 
-<h3 align="center">I'm a driven young Girl who enjoys coding and developing useful applications. I am now a junior full-stack developer with experience in a range of languages and frameworks, and I am particularly interested in backend and frontend technologies.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer with proven expertise in the JavaScript stack. My expertise lies in creating innovative web solutions, drawing on my varied experience with MERN stack projects and Laravel frameworks.
+
+Thriving in agile environments, I closely collaborate with IT teams to solve problems and streamline procedures. Apart from my job, I'm a committed volunteer at the Dar Al Inmaa Foundation and am actively involved in the community.
+
+I truly believe that our paths can intersect to design spectacular technological solutions. Let's connect to discuss how I can contribute to the success of your projects.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kawkawa2](https://github.com/Kawkawa2)
 
