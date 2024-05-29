@@ -31,8 +31,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 - 📖:Know about my experience:
-  <a href="https://kawkawa.vercel.app/">
-    <img src="https://img.shields.io/badge/🔗 link-black?style=flat&logo=link&logoColor=white" alt="link Badge"/>
+  <a href="https://kawkawa.vercel.app/"> 
+    <img src="https://img.shields.io/badge/🔗 Link-red?style=flat&logo=link&logoColor=white" alt="link Badge"/>
   </a>
 
 <br/>
