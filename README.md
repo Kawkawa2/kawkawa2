@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Kawkaw! 👋</h1>
+<h1 align="center">Hey there, I'm Kawkawa🥜👋</h1>
 <br/>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="100" height="100"/>
