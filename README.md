@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="100" height="100"/>
 </div>
 <div id="badges" align='center'>
-  <a href="https://www.linkedin.com/in/kawtar-el-kazdir/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> <a href="https://instagram.com/callme_kawkaw"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/></a>
+  <a href="https://www.linkedin.com/in/kawtar-el-kazdir/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> <a href="https://instagram.com/sweet_kawkawa"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/></a>
   <a href="https://fb.com/kawtare.el.25">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
@@ -30,11 +30,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <a href="mailto:kawtarelka25@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-- 📖:Know about my experience:
-  <a href="https://kawkawa.vercel.app/"> 
-    <img src="https://img.shields.io/badge/🔗 Link-red?style=flat&logo=link&logoColor=white" alt="link Badge"/>
-  </a>
-
 <br/>
 <h2>
 	:hammer_and_wrench: Languages and Tools :
