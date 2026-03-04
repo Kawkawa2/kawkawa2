@@ -59,14 +59,6 @@ Agile • Scrum • UML • MERISE
 <img src="https://github-readme-streak-stats.herokuapp.com?user=kawkawa2&theme=cobalt&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawkawa2&layout=compact&theme=cobalt"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kawkawa2&show_icons=true&theme=cobalt"/>
-</p>
-
 ---
 
 ## 🌱 Currently Learning
