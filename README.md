@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Kawtar El Kazdir 👋</h1>
+<h1 align="center">Hi there 👋 I'm Kawtar El Kazdir</h1>
 
 <p align="center">
-Backend Developer | Python • Django • APIs
+Full Stack Developer | Backend & API Development
 </p>
 
 <div align="center">
@@ -21,25 +21,26 @@ Backend Developer | Python • Django • APIs
 
 ## 👩‍💻 About Me
 
-Backend-oriented developer passionate about building **secure and scalable APIs**.  
-I work with **Python (Django)**, **Node.js (Express)** and **Java (Spring Boot)** to design backend services and REST APIs.
+I'm a **Full Stack Developer** passionate about building modern web applications and backend systems.
 
-I enjoy working on:
+I enjoy designing and developing **REST APIs, backend services, and scalable web applications** using technologies such as **Python, Node.js, Java, and Laravel**.
 
-- API design and backend architecture  
-- Authentication & authorization (JWT / OAuth)  
-- Secure and performant backend services  
-- SQL databases and data modeling  
-- Deploying applications on Linux servers
+I like working on the **entire development lifecycle**, from system design and backend logic to frontend interfaces and deployment.
 
-Currently looking for a **Final Year Internship (PFE) starting May 2026**.
+I’m also interested in **software architecture, API security, and performance optimization**.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack
+
+### Languages
+Python • JavaScript • TypeScript • Java • PHP
 
 ### Backend
-Python • Django • Node.js • Express • Java • Spring Boot • PHP • Laravel
+Django • Node.js • Express • Spring Boot • Laravel
+
+### Frontend
+React • HTML • CSS • TailwindCSS • Bootstrap • jQuery
 
 ### Databases
 MySQL • MongoDB • SQL
@@ -47,8 +48,8 @@ MySQL • MongoDB • SQL
 ### DevOps & Tools
 Linux • Docker • Git • GitHub • AWS EC2 • CI/CD • SonarQube
 
-### Frontend
-React • JavaScript • TypeScript • TailwindCSS • Bootstrap
+### Methodologies
+Agile • Scrum • UML • MERISE
 
 ---
 
@@ -68,16 +69,21 @@ React • JavaScript • TypeScript • TailwindCSS • Bootstrap
 
 ---
 
-## ✨ Interests
+## 🌱 Currently Learning
 
-- Backend development
-- API security
-- System design
-- Open-source projects
+- Advanced Backend Development
+- API Security
+- Scalable System Design
 
 ---
 
-## 💬 Quote
+## 🤝 Let's Connect
+
+Feel free to connect with me on **LinkedIn** or reach out via **email** if you'd like to collaborate or discuss projects!
+
+---
+
+## ✨ Daily Quote
 
 <p align="center">
 <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&font=Gabrielle"/>
