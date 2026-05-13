@@ -1,82 +1,79 @@
-<h1 align="center">Hi there 👋 I'm Kawtar El Kazdir</h1>
+<h1 align="center">Hi, I'm Kawtar El Kazdir</h1>
 
 <p align="center">
-Full Stack Developer | Backend & API Development
+  <b>Software Developer</b> · Backend (Java / Spring Boot) · Web (Laravel / Vue / React) · Mobile (Flutter & Android)
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="100"/>
-</div>
-
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/kawtar-el-kazdir/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:kawtarelka25@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</div>
+</p>
 
 <br/>
 
-## 👩‍💻 About Me
+## About me
 
-I'm a **Full Stack Developer** passionate about building modern web applications and backend systems.
+I'm a **full-stack oriented developer** with a strong focus on **Java** ecosystems (**Spring Boot**, **REST APIs**) and **web development** (**Laravel**, **Vue.js**, **React**, **Node.js**).
 
-I enjoy designing and developing **REST APIs, backend services, and scalable web applications** using technologies such as **Python, Node.js, Java, and Laravel**.
+I'm currently building **mobile experiences with Flutter**, supported by my background in **Android (Java)**. I care about **clear architecture**, **maintainable UI**, and **shipping reliable increments** (Agile / Scrum).
 
-I like working on the **entire development lifecycle**, from system design and backend logic to frontend interfaces and deployment.
-
-I’m also interested in **software architecture, API security, and performance optimization**.
+I'm open to **internship / apprenticeship (alternance)** opportunities and collaborations on **backend**, **mobile**, or **full-stack** products.
 
 ---
 
-## 🚀 Tech Stack
+## Tech I use most
 
-### Languages
-Python • JavaScript • TypeScript • Java • PHP
+| Area | Stack |
+|------|--------|
+| **Languages** | Java, JavaScript, PHP, SQL |
+| **Backend** | Spring Boot, Laravel, Node.js, Express |
+| **Frontend** | React, Vue.js, HTML, CSS, Tailwind CSS, Bootstrap |
+| **Mobile** | Flutter (Dart), Android (Java) |
+| **Data** | MySQL, MongoDB |
+| **Quality & Delivery** | Git, GitHub, SonarQube, CI/CD basics |
+| **Cloud** | AWS EC2 (deployment experience) |
+| **Methods** | Agile, Scrum, UML |
 
-### Backend
-Django • Node.js • Express • Spring Boot • Laravel
-
-### Frontend
-React • HTML • CSS • TailwindCSS • Bootstrap • jQuery
-
-### Databases
-MySQL • MongoDB • SQL
-
-### DevOps & Tools
-Linux • Docker • Git • GitHub • AWS EC2 • CI/CD • SonarQube
-
-### Methodologies
-Agile • Scrum • UML • MERISE
+> Other tools I've worked with in professional/stage contexts include **AngularJS**, **Strapi**, and **jQuery**.
 
 ---
 
-## 📊 GitHub Stats
+## Pinned projects (recommended)
+
+Pin 3–6 repositories on your profile, for example:
+
+- **`partage_solaire_mobile`** — Flutter app (dashboard, invoices, profile), preparing **REST** integration + **notifications**
+- Your **CRM / Akaunting** module (Laravel + Vue) if it's public
+- Any **Spring Boot** API or assignment repo you're proud of
+
+If a project is private, add a **public “portfolio” repo** with a demo GIF + README summary.
+
+---
+
+## GitHub stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kawkawa2&theme=cobalt&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kawkawa2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawkawa2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 </p>
 
----
-
-## 🌱 Currently Learning
-
-- Advanced Backend Development
-- API Security
-- Scalable System Design
+<!-- Streak widget (optional): Heroku-hosted widgets often break; use only if it loads reliably for you. -->
 
 ---
 
-## 🤝 Let's Connect
+## Currently learning / building
 
-Feel free to connect with me on **LinkedIn** or reach out via **email** if you'd like to collaborate or discuss projects!
+- **Flutter** (UI, navigation, state management patterns)
+- **Spring Boot** APIs consumed from mobile/web clients
+- **Notifications** (design + implementation roadmap for real-world apps)
 
 ---
 
-## ✨ Daily Quote
+## Let's connect
 
-<p align="center">
-<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&font=Gabrielle"/>
-</p>
+Best way to reach me: **LinkedIn** or **email**.  
+If you're recruiting for **alternance 2026** (backend / mobile / full-stack), I'd love to chat.
