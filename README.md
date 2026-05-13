@@ -98,7 +98,6 @@ AngularJS · Strapi · jQuery
 ---
 
 ## GitHub stats
-
 ## GitHub stats
 
 <p align="center">
