@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/kawtar-el-kazdir/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:kawtarelka25@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kawkawa2&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 <sub>Based in France · Open to <b>alternance 2026</b> (backend · mobile · full-stack)</sub>
 
@@ -97,12 +100,6 @@ AngularJS · Strapi · jQuery
 
 ---
 
-## GitHub stats
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kawkawa2&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
 
 ## Let’s connect
 
