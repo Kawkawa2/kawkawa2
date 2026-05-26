@@ -7,7 +7,7 @@
 *Also building & shipping online as **Kawkawa** — and yes, the 🥜 is part of the signature.*
 
 <p>
-  <a href="https://www.kaw-tar.dev/fr"><img src="https://img.shields.io/badge/Portfolio-kaw--tar.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.kaw-tar.dev/fr"><img src="https://img.shields.io/badge/kaw--tar.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="kaw-tar.dev"/></a>
   <a href="https://www.linkedin.com/in/kawtar-el-kazdir/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:kawtarelka25@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=Kawkawa2&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<sub>Based in Mulhouse, France · Open to <b>alternance 2026</b> (web · mobile · full-stack)</sub>
+<sub>Based in Mulhouse, France · Open to <b>web · mobile · full-stack</b> opportunities</sub>
 
 </div>
 
@@ -27,7 +27,7 @@ I design and ship useful apps — from **Laravel / Vue** backends and **React / 
 
 - **Web & APIs:** Laravel, Node/Express, REST, JWT/OAuth  
 - **Front-end:** React, Next.js, Vue.js, Angular, Tailwind  
-- **Mobile:** **Flutter** (current PFE focus at Partage Solaire)  
+- **Mobile:** **Flutter**  
 - **Delivery:** Git/GitHub, AWS EC2 (SSH deploy), Agile/Scrum, SonarQube  
 
 **Portfolio (live):** [www.kaw-tar.dev](https://www.kaw-tar.dev/fr) — projects, demos, internships & contact.
@@ -75,17 +75,16 @@ I design and ship useful apps — from **Laravel / Vue** backends and **React / 
 
 ## Featured repositories
 
-> **Pin 6 repos** on your profile: *kawkawa-portfolio* first, then the table below.  
-> Projects without public code are on the [portfolio](https://www.kaw-tar.dev/fr#projects) (videos & demos).
+> **Pin your strongest public repos** (up to 6). More projects (demos & videos): [portfolio](https://www.kaw-tar.dev/fr#projects).
 
 | Project | Repo / link | Stack |
 |--------|-------------|--------|
-| [**kawkawa-portfolio**](https://github.com/Kawkawa2/kawkawa-portfolio) | Current portfolio — **Next.js**, i18n FR/EN | Next.js · React · Tailwind |
 | [**sunligua_backend**](https://github.com/Kawkawa2/sunligua_backend) | Sunligua API — learners & coaches (Soorcin internship) | Node.js · Express · MongoDB · JWT |
 | [**club-selectior-backoffice**](https://github.com/Kawkawa2/club-selectior-backoffice) | Admin backoffice — React + Laravel API | React · MUI · Laravel API |
-| [**Top_Travaux**](https://github.com/Kawkawa2/Top_Travaux) | Laravel platform — clients & artisans (2022 PFE) | Laravel · PHP · MySQL |
+| [**Top_Travaux**](https://github.com/Kawkawa2/Top_Travaux) | Laravel platform — clients & artisans (Morocco, 2022 PFE) | Laravel · PHP · MySQL |
 | [**Blog-post-project**](https://github.com/Kawkawa2/Blog-post-project) | Ark-Xperience — community blogging (bootcamp) | Express · MongoDB · EJS |
 | [**Portfolio**](https://github.com/Kawkawa2/Portfolio) | Previous portfolio — React SPA (2023) | React · Vite · Tailwind |
+| **Live portfolio** | [www.kaw-tar.dev](https://www.kaw-tar.dev/fr) — Next.js (source private) | Next.js · i18n FR/EN |
 | **Partage Solaire · CRM Akaunting · MNC** | [*Portfolio demos*](https://www.kaw-tar.dev/fr#projects) | Flutter · Laravel · Angular |
 
 **Also on GitHub (learning / practice):**  
@@ -95,15 +94,15 @@ I design and ship useful apps — from **Laravel / Vue** backends and **React / 
 
 ## Currently learning / building
 
-- **Flutter** — consumer app for shared solar energy (Partage Solaire, alternance 2026)  
-- **Next.js** — portfolio, i18n, deployment on Vercel + custom domain  
+- **Flutter** — mobile apps & clean architecture  
+- **Next.js** — portfolio, i18n, deployment (Vercel + custom domain)  
 - Sharpening **API design** and **production-minded** delivery  
 
 ---
 
 ## Let's connect
 
-Hiring for **alternance 2026** or want to collaborate?  
+Open to opportunities or want to collaborate?  
 [**Portfolio**](https://www.kaw-tar.dev/fr) · [**LinkedIn**](https://www.linkedin.com/in/kawtar-el-kazdir/) · **kawtarelka25@gmail.com**
 
 **Fun fact:** I keep the 🥜 around as a small reminder to stay **curious**, **consistent**, and a bit **playful** while staying serious about engineering.
